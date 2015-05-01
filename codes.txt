@@ -1,0 +1,197 @@
+Code	Description
+1	Start trial
+2	End trial
+3	[]
+4	Bar up
+5	Bar left
+6	Bar right
+7	Bar down
+8	fixation occurs
+9	Start inter-trial interval
+10	End inter-trial interval
+11	Start wait fixation
+12	End wait fixation
+15	Start pre-trial
+16	End pre-trial
+17	Start post-trial
+18	End post-trial 
+19	Start pause
+20	End pause
+21	Start random pause
+22	End random pause
+23	TaskObject-1 ON
+24	TaskObject-1 OFF
+25	TaskObject-2 ON
+26	TaskObject-2 OFF
+27	TaskObject-3 ON
+28	TaskObject-3 OFF
+29	TaskObject-4 ON
+30	TaskObject-4 OFF
+31	TaskObject-5 ON
+32	TaskObject-5 OFF
+33	TaskObject-6 ON
+34	TaskObject-6 OFF
+35	Fixation spot ON
+36	Fixation spot OFF
+37	Dim fixation spot
+38	Start up lever
+39	End up lever
+40	Start left lever
+41	End left lever
+42	Start right lever
+43	End right lever
+44	Start eye1
+45	End eye1
+46	Start eye2
+47	End eye2
+48	Reward given
+49	broke fixation
+50	[]
+51	[]
+52 	[]
+53	[]
+54	[]
+55 	Image off
+56	Familiar Object-1 ON
+57	Familiar Object-2 ON
+58	Familiar Object-3 ON
+59	Familiar Object-4 ON
+60	Familiar Object-5 ON
+61	Familiar Object-6 ON
+62	Familiar Object-7 ON
+63	Familiar Object-8 ON
+64	Familiar Object-9 ON
+65	Familiar Object-10 ON
+66	Familiar Object-11 ON
+67	Familiar Object-12 ON
+68	Familiar Object-13 ON
+69	Familiar Object-14 ON
+70	Familiar Object-15 ON
+71	Familiar Object-16 ON
+72	Familiar Object-17 ON
+73	Familiar Object-18 ON
+74	Familiar Object-19 ON
+75	Familiar Object-20 ON
+76	Familiar Object-21 ON
+77	Familiar Object-22 ON
+78	Familiar Object-23 ON
+79	Familiar Object-24 ON
+80	Familiar Object-25 ON
+81	Familiar Object-26 ON
+82	Familiar Object-27 ON
+83	Familiar Object-28 ON
+84	Familiar Object-29 ON
+85	Familiar Object-30 ON
+86	Familiar Object-31 ON
+87	Familiar Object-32 ON
+88	Familiar Object-33 ON
+89	Familiar Object-34 ON
+90	Familiar Object-35 ON
+91	Familiar Object-36 ON
+92	Familiar Object-37 ON
+93	Familiar Object-38 ON
+94	Familiar Object-39 ON
+95	Familiar Object-40 ON
+96	Familiar Object-41 ON
+97	Familiar Object-42 ON
+98	Familiar Object-43 ON
+99	Familiar Object-44 ON
+100	Familiar Object-45 ON
+101	Familiar Object-46 ON
+102	Familiar Object-47 ON
+103	Familiar Object-48 ON
+104	Familiar Object-49 ON
+105	Familiar Object-50 ON
+106	IF1 - 1 ON
+107	IF1 - 2 ON
+108	IF1 - 3 ON
+109	IF1 - 4 ON
+110	IF1 - 5 ON
+111	IF1 - 6 ON
+112	IF1 - 7 ON
+113	IF1 - 8 ON
+114	IF1 - 9 ON
+115	IF1 - 10 ON
+116	IF1 - 11 ON
+117	IF1 - 12 ON
+118	IF1 - 13 ON
+119	IF1 - 14 ON
+120	IF1 - 15 ON
+121	IF1 - 16 ON
+122	IF1 - 17 ON
+123	IF1 - 18 ON
+124	IF1 - 19 ON
+125	IF1 - 20 ON
+126	IF1 - 21 ON
+127	IF1 - 22 ON
+128	IF1 - 23 ON
+129	IF1 - 24 ON
+130	IF1 - 25 ON
+131	Novel object-1 ON
+132	Novel object-2 ON
+133	Novel object-3 ON
+134	Novel object-4 ON
+135	Novel object-5 ON
+136	Novel object-6 ON
+137	Novel object-7 ON
+138	Novel object-8 ON
+139	Novel object-9 ON
+140	Novel object-10 ON
+141	Novel object-11 ON
+142	Novel object-12 ON
+143	Novel object-13 ON
+144	Novel object-14 ON
+145	Novel object-15 ON
+146	Novel object-16 ON
+147	Novel object-17 ON
+148	Novel object-18 ON
+149	Novel object-19 ON
+150	Novel object-20 ON
+151	Novel object-21 ON
+152	Novel object-22 ON
+153	Novel object-23 ON
+154	Novel object-24 ON
+155	Novel object-25 ON
+156	Novel object-26 ON
+157	Novel object-27 ON
+158	Novel object-28 ON
+159	Novel object-29 ON
+160	Novel object-30 ON
+161	Novel object-31 ON
+162	Novel object-32 ON
+163	Novel object-33 ON
+164	Novel object-34 ON
+165	Novel object-35 ON
+166	Novel object-36 ON
+167	Novel object-37 ON
+168	Novel object-38 ON
+169	Novel object-39 ON
+170	Novel object-40 ON
+171	Novel object-41 ON
+172	Novel object-42 ON
+173	Novel object-43 ON
+174	Novel object-44 ON
+175	Novel object-45 ON
+176	Novel object-46 ON
+177	Novel object-47 ON
+178	Novel object-48 ON
+179	Novel object-49 ON
+180	Novel object-50 ON
+181	[]
+182	[]
+183	[]
+184	[]
+185	[]
+186	[]
+187	[]
+188	[]
+189	[]
+190	[]
+191	Left img ON
+192	Left img OFF
+193	Left dimimg ON
+194	Left dimimg OFF
+195	Right img ON
+196	Right img OFF
+197	Right dimimg ON
+198	Right dimimg OFF
